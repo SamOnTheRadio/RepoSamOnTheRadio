@@ -1,0 +1,13 @@
+Package: https://samontheradio.github.io/RepoSamOnTheRadio/
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: YourName <YourEmail>
+Filename: /TweakName.deb
+Size: (size without ,'s')
+MD5sum: xxxxxxxxxxxx
+SHA1: xxxxxxxxxxxx
+SHA256: xxxxxxxxxxxx
+Section: (Folder Name)
+Description: (What Is This Tweak)
+Author: (Tweak Owner) (Email)
+Name: (NameHere)
